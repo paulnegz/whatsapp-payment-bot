@@ -1,0 +1,11 @@
+selenium
+pytesseract
+uvicorn
+fastapi
+pillow
+pony
+webdriver_manager
+keyboard
+pyperclip
+pyvirtualdisplay
+python-xlib
